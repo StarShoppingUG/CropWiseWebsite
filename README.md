@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.7.2-blue?logo=flutter)](https://flutter.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-Website: https://starshoppingug.github.io/CropWiseWebsite/
+#Website: https://starshoppingug.github.io/CropWiseWebsite/
 CropWise is an AI-powered agriculture assistant designed to help farmers optimize crop health and productivity. The app fetches real-time weather data, uses artificial intelligence to provide actionable recommendations, and generates personalized schedules for farmers. CropWise also enables farmers to manage reminders and farming plans with a calendar view.
 
 ## Features
