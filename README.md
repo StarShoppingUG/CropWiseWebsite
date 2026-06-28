@@ -16,26 +16,50 @@ CropWise is an AI-powered agriculture assistant designed to help farmers optimiz
 - **Profile Management:** Edit your profile, set your primary crops, and customize your farming preferences.
 
 ## Screenshots
-![alt text](images/Screenshot_light_1.jpg)
-![alt text](images/Screenshot_light_2.jpg) 
-![alt text](images/Screenshot_light_3.jpg) 
-![alt text](images/Screenshot_light_4.jpg) 
-![alt text](images/Screenshot_light_5.jpg) 
-![alt text](images/Screenshot_light_6.jpg) 
-![alt text](images/Screenshot_light_7.jpg) 
-![alt text](images/Screenshot_light_8.jpg) 
-![alt text](images/Screenshot_light_9.jpg) 
-![alt text](images/Screenshot_light_10.jpg)
 
-![alt text](images/Screenshot_dark_1.jpg) 
-![alt text](images/Screenshot_dark_2.jpg) 
-![alt text](images/Screenshot_dark_3.jpg) 
-![alt text](images/Screenshot_dark_4.jpg) 
-![alt text](images/Screenshot_dark_5.jpg) 
-![alt text](images/Screenshot_dark_6.jpg) 
-![alt text](images/Screenshot_dark_7.jpg) 
-![alt text](images/Screenshot_dark_8.jpg) 
-![alt text](images/Screenshot_dark_9.jpg)
+### ☀️ Light Mode
+<table>
+  <tr>
+    <td><img src="images/Screenshot_light_1.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_2.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_3.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot_light_4.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_5.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_6.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot_light_7.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_8.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_light_9.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot_light_10.jpg" width="250"/></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+### 🌙 Dark Mode
+<table>
+  <tr>
+    <td><img src="images/Screenshot_dark_1.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_2.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_3.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot_dark_4.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_5.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_6.jpg" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/Screenshot_dark_7.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_8.jpg" width="250"/></td>
+    <td><img src="images/Screenshot_dark_9.jpg" width="250"/></td>
+  </tr>
+</table>
+
 
 ## Getting Started
 
